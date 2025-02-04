@@ -22,6 +22,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eddys912&show_icons=true&locale=es&theme=auto" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=eddys912&theme=auto&locale=es" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eddys912&show_icons=true&locale=es&theme=transparent"  width="500" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=eddys912&theme=transparent&locale=es"  width="500" alt="GitHub Streak" onerror="this.style.display='none'/>
 </p>
