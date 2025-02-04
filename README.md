@@ -26,14 +26,14 @@
 
 <div align="center">
   <a href="https://github.com/Eddys912">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Eddys912&locale=es&theme=transparent" alt="Estadísticas de GitHub"/>
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Eddys912&locale=es&theme=transparent" alt="Estadísticas de GitHub"/>
   </a>
 
   <a href="https://github.com/Eddys912">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Eddys912&layout=compact&locale=es&theme=transparent" alt="Lenguajes más usados"/>
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=Eddys912&layout=compact&locale=es&theme=transparent" alt="Lenguajes más usados"/>
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img height=200 src="https://github-readme-streak-stats-three-mauve.vercel.app?user=Eddys912&theme=transparent&hide_border=false&border_radius=&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="Racha de contribuciones"/>
+    <img height=180 src="https://github-readme-streak-stats-three-mauve.vercel.app?user=Eddys912&theme=transparent&hide_border=false&border_radius=&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400" alt="Racha de contribuciones"/>
   </a>
 </div>
