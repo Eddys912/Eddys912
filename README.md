@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=java,py,js,html,css" alt="Lenguajes"/>
   
   <h3>Frameworks y Bases de Datos</h3>
-  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,postgresql,mongodb,mysql" alt="Frameworks y BD"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,postgresql,mongodb,mysql" alt="Frameworks y BD"/>
   
   <h3>Herramientas y Otras Tecnologías</h3>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,pnpm,postman,figma" alt="Herramientas"/>
