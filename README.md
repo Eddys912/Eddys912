@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hey 👋, Soy Eduardo David (Eddys912)</h1>
+    <h1>Hey 👋, soy Eduardo David (Eddys912)</h1>
     <h3>¡Explora, aprende y diviértete! 💪</h3>
 </div>
 
@@ -9,19 +9,31 @@
 - 🔧 Experiencia en **desarrollo frontend y backend**.
 - ⚡ Actualmente mejorando mis habilidades en **optimización de código**.
 
-## 🛠 Languages and Tools
+## 🛠 Tecnologías y Herramientas
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,html,css" alt="Languages"/><br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgresql,mongodb,mysql" alt="Frameworks & DBs"/><br>
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,pnpm,postman,figma" alt="Tools"/>
+<div align="center">
+  <h3>Lenguajes</h3>
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css" alt="Lenguajes"/>
+  
+  <h3>Frameworks y Bases de Datos</h3>
+  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,postgresql,mongodb,mysql" alt="Frameworks y BD"/>
+  
+  <h3>Herramientas y Otras Tecnologías</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,pnpm,postman,figma" alt="Herramientas"/>
+</div>
+
+## 📊 Estadísticas de GitHub    
+
+<div align="center">
+  <a href="https://github.com/Eddys912">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Eddys912&locale=es&theme=transparent" alt="Estadísticas de GitHub"/>
   </a>
-</p>
 
-## 📊 GitHub Stats
+  <a href="https://github.com/Eddys912">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Eddys912&layout=compact&locale=es&theme=transparent" alt="Lenguajes más usados"/>
+  </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eddys912&show_icons=true&locale=es&theme=transparent"  width="500" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=eddys912&theme=transparent&locale=es"  width="500" alt="GitHub Streak" onerror="this.style.display='none'/>
-</p>
+  <a href="https://git.io/streak-stats">
+    <img height=200 src="https://github-readme-streak-stats-three-mauve.vercel.app?user=Eddys912&theme=transparent&hide_border=false&border_radius=&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="Racha de contribuciones"/>
+  </a>
+</div>
