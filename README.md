@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+    <h1>Hey 👋, Soy Eduardo David (Eddys912)</h1>
+    <h3>¡Explora, aprende y diviértete! 💪</h3>
+</div>
 
-<!--
-**Eddys912/Eddys912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+    
+- 💡 Aprendiendo nuevas tecnologías y mejores prácticas.
+- 🔧 Experiencia en **desarrollo frontend y backend**.
+- ⚡ Actualmente mejorando mis habilidades en **optimización de código**.
 
-Here are some ideas to get you started:
+## 🛠 Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,js,html,css" alt="Languages"/><br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgresql,mongodb,mysql" alt="Frameworks & DBs"/><br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,pnpm,postman,figma" alt="Tools"/>
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eddys912&show_icons=true&locale=es&theme=auto" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=eddys912&theme=auto&locale=es" alt="GitHub Streak"/>
+</p>
