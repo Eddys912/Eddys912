@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Eddys912/Eddys912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Eduardo David Peña Araujo
 
-Here are some ideas to get you started:
+### ✨ El poder de imaginar, el arte de programar ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+### 🎯 Sobre mí
+
+- 🚀 **En constante evolución**: Explorando nuevas tecnologías y frameworks modernos
+- 🧹 **Código con propósito**: Escribiendo soluciones elegantes y mantenibles
+- 📚 **Arquitectura sólida**: Aplicando patrones de diseño y mejores prácticas
+- 💡 **Aprendizaje continuo**: Transformando desafíos en oportunidades de crecimiento
+
+## 🛠️ Tecnologías y Herramientas
+
+<div align="center">
+
+**Frontend**  
+![HTML](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,vite,astro)
+
+**Backend**  
+![Backend](https://skillicons.dev/icons?i=java,python,nodejs,express,spring,nextjs,fastapi)
+
+**Bases de Datos**  
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb)
+
+**DevOps & Tools**  
+![Tools](https://skillicons.dev/icons?i=git,vscode,pnpm,notion,docker,postman,figma,linux)
+
+</div>
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edavsys&show_icons=true&theme=transparent&hide_border=true&count_private=true&locale=es&include_all_commits=true" alt="Estadísticas de GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edavsys&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más usados"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=edavsys&theme=transparent&hide_border=true&locale=es" alt="Racha de contribuciones"/>
+</div>
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img width="380em" src="https://github-readme-streak-stats.herokuapp.com/?user=edavsys&theme=transparent&hide_border=true&locale=es" alt="Racha de contribuciones"/>
+  <img width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midudev&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más usados"/>
+</div>
