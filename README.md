@@ -34,6 +34,6 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=edavsys&theme=transparent&hide_border=true&locale=es" alt="Racha de contribuciones"/>
-  <img width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midudev&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más usados"/>
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=edavsys&theme=transparent&hide_border=true&locale=es" alt="Racha de contribuciones"/>
+  <img width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midudev&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más usados"/>
 </div>
