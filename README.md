@@ -34,17 +34,6 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edavsys&show_icons=true&theme=transparent&hide_border=true&count_private=true&locale=es&include_all_commits=true" alt="Estadísticas de GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edavsys&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más usados"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=edavsys&theme=transparent&hide_border=true&locale=es" alt="Racha de contribuciones"/>
-</div>
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img width="380em" src="https://github-readme-streak-stats.herokuapp.com/?user=edavsys&theme=transparent&hide_border=true&locale=es" alt="Racha de contribuciones"/>
-  <img width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midudev&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más usados"/>
+  <img width="380em" src="https://github-readme-streak-stats.herokuapp.com/?user=Eddys912&theme=transparent&hide_border=true&locale=es" alt="Racha de contribuciones"/>
+  <img width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddys912&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más usados"/>
 </div>
